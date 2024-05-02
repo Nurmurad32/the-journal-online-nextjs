@@ -7,7 +7,7 @@ This is a news portal website that shows the different categories of news in the
 
 >GitHub Link:
 >
->> Client Side Code : [The Journal Online]()
+>> Client Side Code : [The Journal Online](https://github.com/Nurmurad32/the-journal-online-nextjs)
 
 
 ### Features :
